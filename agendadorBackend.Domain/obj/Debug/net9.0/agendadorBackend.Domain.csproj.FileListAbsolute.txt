@@ -1,0 +1,12 @@
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\bin\Debug\net9.0\agendadorBackend.Domain.deps.json
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\bin\Debug\net9.0\agendadorBackend.Domain.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\bin\Debug\net9.0\agendadorBackend.Domain.pdb
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.AssemblyInfo.cs
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.sourcelink.json
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\refint\agendadorBackend.Domain.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\agendadorBackend.Domain.pdb
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Domain\obj\Debug\net9.0\ref\agendadorBackend.Domain.dll

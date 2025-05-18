@@ -1,0 +1,16 @@
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\bin\Debug\net9.0\agendadorBackend.Application.deps.json
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\bin\Debug\net9.0\agendadorBackend.Application.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\bin\Debug\net9.0\agendadorBackend.Application.pdb
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\bin\Debug\net9.0\agendadorBackend.Domain.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\bin\Debug\net9.0\agendadorBackend.Domain.pdb
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.csproj.AssemblyReference.cache
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.AssemblyInfoInputs.cache
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.AssemblyInfo.cs
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.sourcelink.json
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendado.C82D0079.Up2Date
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\refint\agendadorBackend.Application.dll
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\agendadorBackend.Application.pdb
+C:\Users\sara-\OneDrive\Área de Trabalho\Documentos\projetos\agenda+_v2\agendadorBackend\agendadorBackend.Application\obj\Debug\net9.0\ref\agendadorBackend.Application.dll

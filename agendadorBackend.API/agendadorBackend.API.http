@@ -1,0 +1,6 @@
+@agendadorBackend.API_HostAddress = http://localhost:5121
+
+GET {{agendadorBackend.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
